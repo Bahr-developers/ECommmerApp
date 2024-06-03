@@ -1,0 +1,16 @@
+export const QueryKey = {
+  language: 'language',
+  translate: 'translate',
+  category: 'category',
+  property: 'property',
+  user: 'user',
+  singleUser: 'SingleUSer',
+  product: 'product',
+  wishlist: 'wishlist',
+  cart: 'cart',
+  order: 'order',
+  auth: 'auth',
+  model: 'model',
+  permission: 'permission',
+  roles: 'roles',
+};
